@@ -1,0 +1,29 @@
+.ButtonPrimary{
+
+    width: fit-content;
+
+    border-radius: 32px;
+    background-color: #fff;
+    border: none;
+
+    padding: 8px 16px;
+
+    color: #333;
+    font-size: 18px;
+    
+}
+
+.ButtonSecondary{
+    
+    width: fit-content;
+
+    border-radius: 32px;
+    background-color: #333;
+    border: none;
+
+    padding: 8px 16px;
+
+    color: #fff;
+    font-size: 18px;
+    
+}

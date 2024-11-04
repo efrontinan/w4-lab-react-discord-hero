@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  line-height: 145%;
+
+  background-color: #404fed;
+
+  box-sizing: border-box;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  color: #fff;
+  text-transform: uppercase;
+
+}
+
+h1{
+  font-size: 4em;
+}
+
+p{
+  color: #fff;
+}

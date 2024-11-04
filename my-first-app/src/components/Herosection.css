@@ -1,0 +1,40 @@
+.Herosection {
+
+    padding: 40px;
+    width: 100vw;
+    height: 89vh;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    z-index: 3;
+
+}
+
+.Herosection h1 {
+    width: 50%;
+
+    line-height: 90%;
+}
+
+.Herosection p{
+    width: 60%;
+}
+
+.Herosection img {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+}
+
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+
+    width: 60%;
+
+    z-index: 3;
+
+}
